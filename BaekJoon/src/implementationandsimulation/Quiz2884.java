@@ -29,7 +29,7 @@ public class Quiz2884 {
 			hour = 23;
 		}
 		
-		System.out.println(hour + "시 " + min + "분");
+		System.out.println(hour + " " + min);
 		
 	}
 	
